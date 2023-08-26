@@ -24,7 +24,7 @@ Welcome to the Simple Calculator project! This is a basic calculator web applica
 
 ## Getting Started
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/calculator-project.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/ritik7739/calculator-project.git`.
 2. Navigate to the project directory.
 3. Open `index.html` in a web browser to use the calculator.
 
